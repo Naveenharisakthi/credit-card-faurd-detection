@@ -14,3 +14,6 @@ https://docs.google.com/presentation/d/1HFz-bZKjAI7YvLO-89U10A5holGvVRII/edit?us
 
 phase 5 drive link:
 https://docs.google.com/presentation/d/1I7zDS_GDuz7IVruw7KU9TA4heTdjKgfP/edit?usp=drive_link&ouid=108045445328144015825&rtpof=true&sd=true
+
+main.py :
+https://docs.google.com/document/d/1LHZWDQ0Xrvpmqh5RM_4YyiYX-E9kDbBoOynRYThn1fg/edit?usp=drive_link
